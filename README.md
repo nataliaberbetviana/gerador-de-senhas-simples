@@ -5,6 +5,9 @@
 Este é um mini-projeto em Python que demonstra o uso de funções, loops, condicionais e manipulação de strings. O programa solicita ao usuário o tamanho desejado para a senha e, em seguida, gera uma senha aleatória usando letras e números.
 
 ---
+## Plano de Testes
+O plano de testes documenta a estratégia para verificar o comportamento do gerador de senhas, cobrindo cenários de sucesso, falha e aleatoriedade.
+[📁 Acesse o Plano de Testes aqui](plano_de_testes.md)
 
 ## Como Usar
 
